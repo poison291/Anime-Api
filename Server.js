@@ -17,7 +17,6 @@ db.once("open", () => console.log("Connected To Database"));
 const app = express();
 
 app.use(express.json());
-
 app.use("/anime", anime);
 
 app.listen(4000, () => {
