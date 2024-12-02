@@ -12,4 +12,4 @@ An API to fetch detailed information about anime, including:
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Anime-API.git
+   git clone https://github.com/your-username/Anime-Api.git
